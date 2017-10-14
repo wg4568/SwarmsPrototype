@@ -70,7 +70,7 @@ class Swarmer {
 
 var swarmers = [];
 
-for(var i = 0; i < 100; i++){
+for(var i = 0; i < 600; i++){
 	swarmers.push(new Swarmer(RandomPosition(-300, 300, -300, 300)));
 }
 
