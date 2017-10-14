@@ -1,1 +1,3 @@
 # Swarms
+
+A JavaScript game
